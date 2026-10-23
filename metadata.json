@@ -1,0 +1,6 @@
+{
+  "name": "شاهنامه فردوسی | کاوشگر ۶۱ فصل",
+  "description": "سامانه جامع و تاریک کاوش ۶۱ فصل شاهنامه فردوسی بر پایه دسته‌بندی گنجور همراه با سیمای حکیم فردوسی و شرح فصول",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
